@@ -3,7 +3,7 @@ A sample of faking signature of Satoshi
 
 Group members: 刘天骏 202000460002
 
-Introduction: A simple test of sm2 identifier and some usage
+Introduction: A function that generates a disguise signature of a stranger without the message
 
 Accomplished project: 
 
